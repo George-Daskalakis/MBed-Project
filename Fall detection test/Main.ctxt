@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ A\ template\ main-method\ class\ for\ use\ from\r\n\ non-BlueJ\ IDEs\ or\ the\ command\ line.\r\n\ \r\n\ @author\ djb\r\n\ @version\ 2017.01.12\r\n
+comment1.params=
+comment1.target=Main()
+comment1.text=\r\n\ This\ class\ is\ not\ meant\ to\ be\ instantiated,\r\n\ so\ prevent\ that.\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
